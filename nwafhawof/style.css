@@ -6,7 +6,7 @@ body {
 
 .container {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 h1 {
@@ -15,6 +15,14 @@ h1 {
 
 p {
     color: #666;
+}
+
+/* Image styling */
+.main-image {
+    width: 300px;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 10px;
 }
 
 button {
